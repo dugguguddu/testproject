@@ -90,7 +90,7 @@ namespace SalesMarket
                 options.AllowAnyMethod().AllowAnyOrigin();
             });
             app.UseStaticFiles();
-            app.UseMvc();
+            //app.UseMvc();
             app.UseAuthentication();
             app.UseMvcWithDefaultRoute();
 
