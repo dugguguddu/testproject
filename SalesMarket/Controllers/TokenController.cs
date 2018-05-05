@@ -131,6 +131,7 @@ namespace SalesMarket.Controllers
             };
 
 
+            Console.WriteLine("Test line");
 
             return tokensData;
         }
