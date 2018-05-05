@@ -1,0 +1,11 @@
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\bin\Debug\netcoreapp2.0\SalesMakert.Data.deps.json
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\bin\Debug\netcoreapp2.0\SalesMakert.Data.dll
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\bin\Debug\netcoreapp2.0\SalesMakert.Data.pdb
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.csproj.CoreCompileInputs.cache
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.AssemblyInfoInputs.cache
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.AssemblyInfo.cs
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.dll
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.pdb
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\shweta.mahajan\source\repos\SalesMarket\SalesMakert.data\obj\Debug\netcoreapp2.0\SalesMakert.Data.csproj.CopyComplete
